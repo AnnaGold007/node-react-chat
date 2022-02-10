@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "heroku": "^7.59.2",
+    "nodemon": "^2.0.15",
+    "npm": "^8.4.1",
+    "socket.io": "^2.2.0",
+    "start": "^5.1.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^3.0.2"
+  }
+}
